@@ -16,7 +16,6 @@
 a = 0
 b = 1
 
-# while (i <= 50):
 for i in range(51):
     if i == 0:
         print(f"Term: {a} / number: {a} ")
