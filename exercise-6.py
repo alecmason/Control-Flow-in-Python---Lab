@@ -30,7 +30,7 @@ elif month in ('Apr', 'May', 'Jun'):
   season = 'Spring'
 elif month in ('Jul', 'Aug', 'Sep'):
   season = 'Summer'
-else:
+elif ('Oct', 'Nov'):
     season = 'Fall'
 
 if month == 'Mar' and day > 19:
